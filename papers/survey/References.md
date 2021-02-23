@@ -1,3 +1,17 @@
+# Methods for Evaluating News Recommendation System
+
+# Purpose & Scope
+
+Evaluation models, methods and metrics for news recommendation system.  
+
+As news recommendation system is a specific application of recommendation system,  the evaluation scheme on 
+
+
+
+# Criteria
+
+
+
 # 鲁棒性
 
 ## 攻击
