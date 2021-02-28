@@ -11,6 +11,23 @@
 
 ## 防御
 
+### Shilling Attack Detection Algorithms
+
+1. Jun Zou and Faramarz Fekri. A belief propagation approach for detecting shilling attacks in collaborative filtering. In Proceedings of the 22nd ACM international conference on Information & Knowledge Management, pages 1837–1840. ACM, 2013.  
+
+2. Zhihai Yang, Lin Xu, Zhongmin Cai, and Zongben Xu. Re-scale adaboost for attack detection in collaborative filtering recommender systems. Knowledge-Based Systems, 100:74–88, 2016.  
+3. Runa Bhaumik, Bamshad Mobasher, and Robin Burke. A clustering approach to unsupervised attack detection in collaborative recommender systems. In Proceedings of the International Conference on Data Mining, page 1. Citeseer, 2011.  
+ 
+### Robustness of Recommender Systems 
+
+1. Santiago Alonso, Jesús Bobadilla, Fernando Ortega, and Ricardo Moya. Robust model-based reliability approach to tackle shilling attacks in collaborative filtering recommender systems. IEEE Access, 7:41782–41798, 2019.  
+
+2. Fuzhi Zhang, Yuanli Lu, Jianmin Chen, Shaoshuai Liu, and Zhoujun Ling. Robust collaborative filtering based on non-negative matrix factorization and r1-norm. Knowledge-based systems, 118:177–190, 2017.  
+3. Hongtao Yu, Ruibo Gao, Kun Wang, and Fuzhi Zhang. A novel robust recommendation method based on kernel matrix factorization. Journal of Intelligent & Fuzzy Systems, 32(3):2101–2109, 2017.  
+4. Xiangnan He, Zhankui He, Xiaoyu Du, and TatSeng Chua. Adversarial personalized ranking for recommendation. In The 41st International ACM SIGIR Conference on Research & Development in Information Retrieval, pages 355–364. ACM, 2018.  
+
+
+
 # 多样性
 
 ## Selection Bias评估指标
