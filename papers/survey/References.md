@@ -3,7 +3,9 @@
 ## 攻击
 ### 黑盒
 1. T.DiNoia, D.Malitesta, and F.A.Merra. 2020. TAaMR: Targeted Adversarial Attack against Multimedia Recommender Systems. In the 50th Annual IEEE/IFIP International Conference on Dependable Systems and Networks Workshops (DSN-DSML’20). 
-	- http://sisinflab.poliba.it/publications/2020/DMM20/PID6442119.pdf 
+	- http://sisinflab.poliba.it/publications/2020/DMM20/PID6442119.pdf
+
+2. Mingdan Si and Qingshan Li. Shilling attacks against collaborative recommender systems: a review. Artificial Intelligence Review, pages 1–29, 2018.  
 
 ### 白盒
 
