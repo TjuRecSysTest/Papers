@@ -34,7 +34,10 @@ As news recommendation system is a specific application of recommendation system
 
 2. Prediction Accuracy/Correctness 
 
-3. Coverage
+3. Coverage(想让他看到)：  catalog coverage (item-space coverage) or prediction coverage (user-space coverage) 
+
+   * Semantics
+   * 
 
 4. Confidence
 
