@@ -1,3 +1,84 @@
+# Methods for Evaluating News Recommendation System
+
+## Purpose & Scope
+
+Evaluation models, methods and metrics for news recommendation system.  
+
+As news recommendation system is a specific application of recommendation system,  the evaluation method on general recommendation system can be applied while some features specified on news can also be considered
+
+**Overall**
+
+* evaluation "recommendation system"
+  * A Survey of Accuracy Evaluation Metrics of Recommendation Tasks [JMLR'09](https://www.jmlr.org/papers/volume10/gunawardana09a/gunawardana09a.pdf)
+  * Evaluating Recommendation Systems [link]()
+  * Dimensions and Metrics for Evaluating Recommendation Systems [link](2014_Book_RecommendationSystemsInSoftware)
+* evaluation "news recommendation system"
+   * News Recommendation Systems - Accomplishments, Challenges & Future Directions [link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8963698)
+     	* dataset/ evaluation method
+
+## Datasets
+
+
+
+## Environments/Experimental Settings
+
+### Offline
+
+### Online
+
+**Simulator**： how human interact with in the news recommendation system
+
+## Criteria
+
+1. User Preference
+
+2. Prediction Accuracy/Correctness 
+
+3. Coverage(想让他看到)：  catalog coverage (item-space coverage) or prediction coverage (user-space coverage) 
+
+   * Semantics
+   * 
+
+4. Confidence
+
+5. Trust
+
+6. Novelty
+
+7. Serendipity: To what extent has the system succeeded in providing surprising yet
+   beneficial recommendations?
+
+8. Diversity:  How diverse (dissimilar) are the recommended items in a list?
+   $$
+   diversity(c_1,...,c_n) = \frac{2}{n(n-1)}\sum_{i=1}^n\sum_{j=1}^n(1-similarity(c_i,c_j))
+   $$
+
+   * Bias
+
+9. Utility
+
+10. Risk
+
+11. Robustness:  How tolerant is the recommendation system to bias or false information?
+
+    * Adversarial Robustness
+
+12. Privacy
+
+13. Adaptivity
+
+14. Scalability
+
+15. Learning rate: How fast can the system incorporate new information to update its recommendation list?
+
+16. Usability: How usable is the recommendation system? Will it be easy for users to adopt it in an appropriate way?
+
+*Notes: consider more on 1) deep learning method involve new evaluation aspects; 2) news recommendation*
+
+17. Fairness? (user/item)
+
+
+
 # 鲁棒性
 
 ## 攻击
